@@ -10,7 +10,7 @@ def line(array)
 end
 
 def take_a_number(array, name)
-  array.push("Toby")
+  array.push(name)
 end
   
   
